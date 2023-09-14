@@ -1,0 +1,19 @@
+{
+  "title": "安卓逆向调试：XPosed框架",
+  "description": "介绍用于安卓破解的辅助工具：Xposed框架；先是Xposed框架简介，Xposed发展历史，从Xposed到EdXposed，再到LSPosed；然后介绍背景知识，包括Riru、Zygisk等；再介绍类XPosed框架的VirtualXposed、太极、LSPatch；接着介绍具体如何安装Xposed、EdXposed、LSPosed；其中包括EdXposed常见问题；LSPosed的相关日志、打开LSPosed的app、LSPosed的界面和功能、Shamiko模块；如何具体使用XPosed；以及常见的XPosed的插件模块，包括JustTrustMe，砸壳导出dex的FDex2和dumpdex，app可调试的Xdebuggable和XAppDebug，以及GravityBox；然后介绍如何开发XPosed插件，包括先是用AS新建一个安卓普通app项目，再去改动增加Xposed的配置，写Xposed插件的hook代码，编译和安装Xposed插件即普通安卓apk到安卓手机，然后确认Xposed插件是否安装成功和被正常识别，然后测试Xposed插件是否生效是否能输出log日志；以及贴出Xposed插件的demo项目源代码。最后整理Xposed相关心得；",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "android_re_xposed_framework"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.org/books/android_re_xposed_framework/website/"
+    },
+    "toolbar-button": {
+      "url": "https://book.crifan.org/books/android_re_xposed_framework/pdf/android_re_xposed_framework.pdf"
+    }
+  }
+}
