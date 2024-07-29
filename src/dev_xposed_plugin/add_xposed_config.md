@@ -135,7 +135,7 @@ public class XposedHook implements IXposedHookLoadPackage {
       * 另外最好：去你的安卓手机中确认当前Xposed的API版本
         * 比如
           * 此处的Pixel5中，EdXposed首页中的：v93.0
-            * ![pixel5_edxposed_api_v93](../../assets/img/pixel5_edxposed_api_v93.png)
+            * ![pixel5_edxposed_api_v93](../assets/img/pixel5_edxposed_api_v93.png)
               * 表示用的是，更加新的93的EdXposed的Xposed的API版本
               * 注：更新的API版本，支持其他更新的API接口
                 * 但是同时会兼容旧版本Xposed的API接口的
@@ -148,7 +148,7 @@ public class XposedHook implements IXposedHookLoadPackage {
 另外贴出，之前，针对于旧版本`Android 4.4`的安卓手机
 
 * 当时是`Android 4.4.2`的`Nox夜神模拟器`
-  * ![android_4_4_2_nox](../../assets/img/android_4_4_2_nox.png)
+  * ![android_4_4_2_nox](../assets/img/android_4_4_2_nox.png)
   * 对应adb连接并查看设备
     ```bash
     crifan@licrifandeMacBook-Pro  ~  adb connect 127.0.0.1:62001
@@ -267,7 +267,7 @@ dependencies {
 }
 ```
 
-![as_xposed_app_build_gradle](../../assets/img/as_xposed_app_build_gradle.png)
+![as_xposed_app_build_gradle](../assets/img/as_xposed_app_build_gradle.png)
 
 参数说明：
 
@@ -359,7 +359,7 @@ rootProject.name = "CrifanXposedHook"
 include ':app'
 ```
 
-![as_xposed_settings_gradle](../../assets/img/as_xposed_settings_gradle.png)
+![as_xposed_settings_gradle](../assets/img/as_xposed_settings_gradle.png)
 
 参数说明：
 
