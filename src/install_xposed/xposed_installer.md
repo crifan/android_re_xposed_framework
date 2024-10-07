@@ -63,7 +63,7 @@ TODO：
                   * 【已解决】小米4中重新安装Xposed Installer和激活Xposed框架
                   * 【记录】给二手已root小米4设置Charles代理和安装Charles证书和启用Xposed
 
-> #### warning:: 注意手机有变砖可能
+> [!warning|title:注意手机有变砖可能]
 > 
 > 刷xposed框架会修改系统文件，所以可能会导致手机变砖，系统崩溃。以及刷成功后系统变卡变慢。并且不保证每台机器都可以刷成功，请自行评估在决定是否安装
 > 
