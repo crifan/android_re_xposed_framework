@@ -39,11 +39,17 @@ TODO：
     List of devices attached
     9C181A8D3C3F3B         device usb:1048576X product:redfin model:Pixel_5 device:redfin transport_id:3
     ```
-* 安卓手机：`Google Pixel 5`
-  * `Android 11`
-    * ![as_pixel5_android_11](../assets/img/as_pixel5_android_11.png)
-  * 已root，已安装：`EdXposed`、`Magisk`
-    * ![pixel5_edxposed_magisk](../assets/img/pixel5_edxposed_magisk.png)
+* 安卓手机
+  * `Google Pixel 5`
+    * `Android 11`
+      * ![as_pixel5_android_11](../assets/img/as_pixel5_android_11.png)
+    * 已root，已安装：root的：`Magisk` + Xposed的`EdXposed`
+      * ![pixel5_edxposed_magisk](../assets/img/pixel5_edxposed_magisk.png)
+  * 或 `小米8`
+    * `Android 12` + `LineageOS v19.1`
+      * ![xiaomi8_android_12_lineageos_19](../assets/img/xiaomi8_android_12_lineageos_19.jpg)
+    * 已root，已安装：root的：`Kitsune Mask` + Xposed的`LSPosed`
+      * ![xiaomi8_lsposed_kitsune_mask](../assets/img/xiaomi8_lsposed_kitsune_mask.jpg)
 
 下面介绍，如何开发一个最基本的**Xposed插件**：
 
