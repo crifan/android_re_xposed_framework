@@ -66,6 +66,8 @@
     ```
   * 对应代理设置是：
     * ![as_proxy_settings](../assets/img/as_proxy_settings.png)
+  * AS项目设置后的全局配置是
+    * ![as_preferenecs_http_proxy](../assets/img/as_preferenecs_http_proxy.png)
 
 ## 最终项目文件和结构
 

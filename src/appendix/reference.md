@@ -7,7 +7,6 @@
 * 【已解决】安卓逆向编写Xposed插件：创建安卓app项目
 * 【已解决】AS中给Xposed插件初始化配置和写hook代码
 * 【已解决】AS中Xposed插件代码报错：Cannot resolve symbol de
-* 【无需解决】AS中Xposed插件代码报错：Cannot resolve symbol IXposedHookLoadPackage
 * 【已解决】对于EdXposed的Pixel3如何设置Xposed插件的xposedminversion
 * 【已解决】Android Studio的gradle出现警告：WARNING Configuration provided is obsolete and has been replaced with compileOnly
 * 【无需解决】AS调试安卓app报错：Processes are not found Aborting session
@@ -42,6 +41,9 @@
 * 【未解决】尝试解决LineageOS的小米8且hook系统接口后中LSPosed未激活：卸载重新安装LSPosed的Manager
 * 【未解决】尝试解决LineageOS的小米8且hook系统接口后中LSPosed未激活：Magisk中重新安装
 * 【已解决】LSPosed安装后找不到管理器的apk：/data/adb/lspd/manager.apk
+* 【已解决】AndroidStudio中Xposed插件项目报错：Cannot resolve symbol de
+* 【已解决】AndroidStudio中Xposed插件项目报错：能识别import de.robv.android.xposed但无法识别IXposedHookLoadPackage
+* 【无需解决】AS中Xposed插件代码报错：Cannot resolve symbol IXposedHookLoadPackage
 * 
 * [【模块框架】LSPatch - 免Root模块框架小白向安装使用指南 - 知乎 (zhihu.com) ](https://zhuanlan.zhihu.com/p/530887552)
 * [Android Lspatch(模块工具) 0.5.1(385) - 果核剥壳 (ghxi.com)](https://www.ghxi.com/lspatch.html)
