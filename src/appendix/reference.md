@@ -34,7 +34,15 @@
 * 【未解决】XposedInstaller中安装Xposed插件：[MM-O] Xdebuggable
 * 【记录】下载安装试用XPosed模块：GravityBox
 * 【已解决】XPosed模块：GravityBox
-*  
+* 【已解决】安卓小米8的LSPosed显示：LSPosed未安装
+* 【记录】给自己编译LineageOS 19的小米8重新刷官网LineageOS的19的ROM包
+* 【记录】下载小米8的dipper的LineageOS v19的官网ROM
+* 【未解决】尝试解决LineageOS的小米8且hook系统接口后中LSPosed未激活：试试更新版本的LSPosed
+* 【未解决】尝试解决LineageOS的小米8且hook系统接口后中LSPosed未激活：试试旧版本LSPosed
+* 【未解决】尝试解决LineageOS的小米8且hook系统接口后中LSPosed未激活：卸载重新安装LSPosed的Manager
+* 【未解决】尝试解决LineageOS的小米8且hook系统接口后中LSPosed未激活：Magisk中重新安装
+* 【已解决】LSPosed安装后找不到管理器的apk：/data/adb/lspd/manager.apk
+* 
 * [【模块框架】LSPatch - 免Root模块框架小白向安装使用指南 - 知乎 (zhihu.com) ](https://zhuanlan.zhihu.com/p/530887552)
 * [Android Lspatch(模块工具) 0.5.1(385) - 果核剥壳 (ghxi.com)](https://www.ghxi.com/lspatch.html)
 * [安卓应用的安全和破解](https://book.crifan.org/books/android_app_security_crack/website/)

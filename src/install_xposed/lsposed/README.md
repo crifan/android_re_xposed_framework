@@ -23,13 +23,23 @@
 先确保Magisk中：
 
 * 已勾选：`Zygisk`
-  * ![](../../assets/img/magisk_zygisk_enabled.png)
+  * ![magisk_zygisk_enabled](../../assets/img/magisk_zygisk_enabled.png)
 
 然后再去：Magisk中安装`LSPosed-Zygisk`插件
 
 ### 概述
 
 * 从[LSPosed官网](https://github.com/LSPosed/LSPosed/releases)下载到最新版`LSPosed-v1.8.6-6712-zygisk-release.zip`，下载到手机中，再去`Magisk`中安装该插件，即可
+
+
+* 注：
+  * `LSPosed-Zygisk`，还有其他更新版本 == 如果需要，也可以使用更新的版本
+    * `v1.9.3_mod`
+      * [Releases · mywalkb/LSPosed_mod](https://github.com/mywalkb/LSPosed_mod/releases)
+        * https://github.com/mywalkb/LSPosed_mod/releases/download/v1.9.3_mod/LSPosed-v1.9.3_mod-7244-zygisk-release.zip
+    * `v1.10.1`
+      * [Release LSPosed v1.10.1 · JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed/releases/tag/v1.10.1)
+        * https://github.com/JingMatrix/LSPosed/releases/download/v1.10.1/LSPosed-v1.10.1-7115-zygisk-release.zip
 
 ### 详解
 

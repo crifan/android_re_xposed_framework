@@ -19,6 +19,7 @@
     * [打开LSPosed的app](install_xposed/open_lsposed_app.md)
     * [LSPosed界面和功能](install_xposed/lsposed_ui_function.md)
     * [Shamiko模块](install_xposed/shamiko_module.md)
+    * [LSPosed常见问题](install_xposed/lsposed_issues.md)
 * [使用Xposed](use_xposed/README.md)
   * [Xposed插件](use_xposed/xposed_plugins/README.md)
     * [JustTrustMe](use_xposed/xposed_plugins/justtrustme.md)
