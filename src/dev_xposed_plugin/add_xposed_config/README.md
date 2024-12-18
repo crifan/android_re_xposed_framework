@@ -14,7 +14,7 @@
 com.example.crifanxposedhook.XposedHook
 ```
 
-![as_xposed_init](../../assets/img/as_xposed_init.png)
+![as_xposed_init_no_err](../../assets/img/as_xposed_init_no_err.png)
 
 内容说明：
 
@@ -59,7 +59,7 @@ public class XposedHook implements IXposedHookLoadPackage {
 </resources>
 ```
 
-![as_xposed_strings_xml](../../assets/img/as_xposed_strings_xml.png)
+![as_xposed_strings_xml_no_err](../../assets/img/as_xposed_strings_xml_no_err.png)
 
 * 内容说明
   * 其中`CrifanXposedHook`是当前app名称=Xposed插件名称=安卓项目名称
@@ -114,7 +114,7 @@ public class XposedHook implements IXposedHookLoadPackage {
 </manifest>
 ```
 
-![as_xposed_androidmanifest_xml](../../assets/img/as_xposed_androidmanifest_xml.png)
+![as_xposed_androidmanifest_xml_no_err](../../assets/img/as_xposed_androidmanifest_xml_no_err.png)
 
 * 参数说明
   * `xposedmodule`=`true`
@@ -205,7 +205,7 @@ public class XposedHook implements IXposedHookLoadPackage {
   }
   ```
 
-![as_xposed_app_build_gradle](../../assets/img/as_xposed_app_build_gradle.png)
+![as_xposed_app_build_gradle_no_src](../../assets/img/as_xposed_app_build_gradle_no_src.png)
 
 参数说明：
 
@@ -268,7 +268,7 @@ public class XposedHook implements IXposedHookLoadPackage {
   include ':app'
   ```
 
-![as_xposed_settings_gradle](../../assets/img/as_xposed_settings_gradle.png)
+![as_xposed_settings_gradle_aliyun](../../assets/img/as_xposed_settings_gradle_aliyun.png)
 
 参数说明：
 
